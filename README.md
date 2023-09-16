@@ -1,6 +1,6 @@
 ### Nice 2 meet U :)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaeseokk)](https://solved.ac/jaeseokk/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaeseokk)](https://solved.ac/profile/jaeseokk)
 
 
 <!--
