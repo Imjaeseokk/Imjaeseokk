@@ -1,4 +1,4 @@
-### Hi there 👋
+### Nice 2 meet U 👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaeseokk)](https://solved.ac/jaeseokk/)
 
