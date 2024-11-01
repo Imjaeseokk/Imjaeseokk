@@ -1,5 +1,5 @@
 ### Nice 2 meet U :)
-Welcome 2  https://imjaeseokk.github.io/
+Welcome to my [blog](https://imjaeseokk.github.io/)
 - 🌱 I’m currently learning Computer Vision
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaeseokk)](https://solved.ac/profile/jaeseokk)
