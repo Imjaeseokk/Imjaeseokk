@@ -1,6 +1,6 @@
 ### Nice 2 meet U :)
-https://imjaeseokk.github.io/
-- 🌱 I’m currently learning ...
+Welcome 2  https://imjaeseokk.github.io/
+- 🌱 I’m currently learning Computer Vision
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaeseokk)](https://solved.ac/profile/jaeseokk)
 
