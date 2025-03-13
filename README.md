@@ -41,6 +41,7 @@ Research project in **AI Expert** coursework at Samsung Electronics - Seoul Nati
 
 - ⚡ **Monitoring system for plasma** in the CVD process using CV, including image classification and image-based multivariable regression.
 - 🔒 **Details not disclosed.** Part of an internal training coursework assignment and cannot be disclosed due to confidentiality.
+- 📁[Repository](https://github.com/Imjaeseokk/ai-expert)
 
 
 
