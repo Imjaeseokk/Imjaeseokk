@@ -54,6 +54,13 @@ Research project in **AI Expert** coursework at Samsung Electronics - Seoul Nati
 - 📁[Repository](https://github.com/Imjaeseokk/ai-expert)
 
 
+## Certificate
+### AI-Expert (May 2024 - December 2024)
+Samsung Electronics - Seoul National University R&D Center
+
+### Coursera
+- Introduction to Hardware and Operating Systems – IBM  [view certificate](https://www.coursera.org/account/accomplishments/certificate/6A1GV34DN1L8)
+- Mathematics for Machine Learning: Linear Algebra – Imperial College London  [view certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/UZKXICFHS5JF)
 
 
 <!--
