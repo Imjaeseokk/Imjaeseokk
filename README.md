@@ -16,7 +16,7 @@ KEPCO - Transmission and Substation Team (July 2017 - August 2017)
 ## 🛠️ Open Source Contributions
 
 - [PyTorch Korea Tutorials](https://github.com/PyTorchKorea/tutorials-kr)
-  - Issue 제보: `.bachward()` 오타 발견 및 이슈 등록 ([#970](https://github.com/PyTorchKorea/tutorials-kr/issues/970))
+  - Issue 제보: `.bachward()` 오타 발견 및 이슈 등록 ([#970](https://github.com/PyTorchKorea/tutorials-kr/issues/970)) → PR 및 Merge 완료로 [Issue Close](https://github.com/PyTorchKorea/tutorials-kr/pull/982)
 
 ### 🔥 Contribution Highlights
 - Issue reporting, bug fixing, and documentation improvement
